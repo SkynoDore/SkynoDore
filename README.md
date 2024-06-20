@@ -3,7 +3,8 @@
 --Paginas actuales--
 Proyecto web con php y base de datos: 
 http://ohnigiri.free.nf 
->![image](https://github.com/SkynoDore/SkynoDore/assets/40807192/879b8302-861f-4e28-81e2-130a9a94b811)
+>![Captura de pantalla 2024-06-19 174320](https://github.com/SkynoDore/SkynoDore/assets/40807192/146f4589-0b09-48f4-8374-520f7a933499)
+
 
 
 Proyecto web con Javascript: 
