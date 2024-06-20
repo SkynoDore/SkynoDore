@@ -1,7 +1,6 @@
 🚧 Perfil en obras 🚧
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkynoDore&layout=compact)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkynoDore)](https://github.com/anuraghazra/github-readme-stats)
 
 --Paginas actuales--
 
