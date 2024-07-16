@@ -1,4 +1,7 @@
 🚧 Perfil en obras 🚧
+Graduado técnico superior en Desarrollo de Aplicaciones Web - Instituto tecnologico Master D Madrid.
+Trabajando con javascript, java, php, sql, html, css, scss, bootstrap y jquery.
+Aprendiendo actualmente React.js y laravel.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkynoDore&layout=compact)
 
