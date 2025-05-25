@@ -1,9 +1,9 @@
 🚧 Perfil en obras 🚧
 
-Graduado técnico superior en Desarrollo de Aplicaciones Web - Instituto tecnologico Master D Madrid.
+Grado superior en Desarrollo de Aplicaciones Web - Instituto tecnologico Master D Madrid.
+Master en Desarrollo Web Avanzado - Nett Digital School
 
-Trabajando con javascript, java, php, sql, html, css, scss, bootstrap y jquery.
-Aprendiendo actualmente React.js y laravel.
+Trabajando con React.js, laravel, Angular, javascript, java, php, sql, html, css, scss, bootstrap y jquery.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkynoDore&layout=compact)
 
@@ -16,6 +16,6 @@ http://ohnigiri.free.nf
 
 
 Proyecto web con Javascript: 
-http://puzzlesbar.free.nf/index.html
+http://puzzlesbar.free.nf/
 ![Captura de pantalla 2024-06-19 174025](https://github.com/SkynoDore/SkynoDore/assets/40807192/e738de2d-a34c-447f-9ef4-5d68177c3928)
 
